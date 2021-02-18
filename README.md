@@ -1,1 +1,1 @@
-# Discrete-Naive-Bayes-Classifier-
+# Discrete-Naive-Bayes-Classifier
