@@ -23,3 +23,8 @@ My model basically forms a dictionary of all the words present in nearly 20,000 
 Checks the Important words and remove stopwords from dictionary and than uses the data to build Naive Bayes to split data in 20 classes.                                           
 Our end result is predicting the main topic of our file using the classifier. Very similarly we can predict genre of movie,recomendation for user in Netflix,IMDB dataset using description.                
 I used Multinomial because our prediction is based on frequency of words in dictionary.
+
+
+
+
+Since the model is self made accuracy of model is not good. I am working and your suggestions are welcomed.
