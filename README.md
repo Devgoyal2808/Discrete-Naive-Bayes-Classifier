@@ -21,7 +21,7 @@ Dicrete_Naive_bayes contains implementaion of NaiveBayes classifier in Iris Data
 Multinomial_Naive_bayes_contains implemenation of Multinomial NaiveBayes over a Group dataset.   
 My model basically forms a dictionary of all the words present in nearly 20,000 files from 20 folders of different fields.  
 Checks the Important words and remove stopwords from dictionary and than uses the data to build Naive Bayes to split data in 20 classes.                                           
-**Our end result is predicting the main topic of our file using the classifier. Very similarly we can predict genre of movie,recomendation for user in Netflix,IMDB dataset using description. **               
+#### Our end result is predicting the main topic of our file using the classifier. Very similarly we can predict genre of movie,recomendation for user in Netflix,IMDB dataset using description.             
 
 I used Multinomial because our prediction is based on frequency of words in dictionary.
 
