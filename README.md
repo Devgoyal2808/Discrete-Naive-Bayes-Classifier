@@ -1,4 +1,4 @@
-# Naive-Bayes-Classifier
+# Naive-Bayes-Text Classifier
                                                                                                                                                                                    
 Naive Bayes Classifier gives great insights for some selected dataset.                                                                                                             
 Though it is very well implemented in sklearn but where and how to apply NaiveBayes remains unanswerable. So,                                                                       
